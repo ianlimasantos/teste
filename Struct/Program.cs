@@ -17,7 +17,9 @@
 
     static void Main(string[] args){
         Poder[] personagens = new Poder[2];
-        
+        // BLOOOOOOOOOOOOOOM
+        //STELLAAAAAAAAAAAAA
+        //MUSAAAAAAAAA
         for (int i = 0; i < 2; i++)
         {
             Console.WriteLine("Digite o nome:");
