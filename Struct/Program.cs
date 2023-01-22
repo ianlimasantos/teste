@@ -24,6 +24,9 @@
         //TECNAAAAAAAAAAAAA
         //FLORAAAAAAAAAAA
         //joelma
+        // AAAAAAAAAAAAAAAAAAA
+        // AMO ANAVITORIAAAAAAAAAAAAAAA
+        // DANCO COMO UM PASTELLLL
         for (int i = 0; i < 2; i++)
         {
             Console.WriteLine("Digite o nome:");
